@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Event RSVP Links</title>
+   <style>
+       body {
+           font-family: Arial, sans-serif;
+           text-align: center;
+           margin: 20px;
+       }
+       a {
+           display: block;
+           margin-bottom: 10px;
+           padding: 10px;
+           background-color: #007BFF;
+           color: #fff;
+           text-decoration: none;
+       }
+   </style>
+</head>
+<body>
+   <h1>Event RSVP Links</h1>
+
+   <!-- Los Angeles -->
+   <a href="https://www.eventbrite.com/e/los-angeles-store-dec-2nd-tickets-764154565877?aff=oddtdtcreator" target="_blank">Los Angeles - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/los-angeles-store-dec-9th-tickets-764166461457?aff=oddtdtcreator" target="_blank">Los Angeles - Dec 9</a>
+
+   <!-- Chino -->
+   <a href="https://www.eventbrite.com/e/chino-store-dec-2nd-tickets-764168517607?aff=oddtdtcreator" target="_blank">Chino - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/chino-store-dec-9-tickets-764170944867?aff=oddtdtcreator" target="_blank">Chino - Dec 9</a>
+
+   <!-- Anaheim -->
+   <a href="https://www.eventbrite.com/e/anaheim-store-dec-2nd-tickets-764174976927?aff=oddtdtcreator" target="_blank">Anaheim - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/anaheim-store-dec-9th-tickets-764180984897?aff=oddtdtcreator" target="_blank">Anaheim - Dec 9</a>
+
+   <!-- Phoenix -->
+   <a href="https://www.eventbrite.com/e/phoenix-store-dec-2nd-tickets-764184816357?aff=oddtdtcreator" target="_blank">Phoenix - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/phoenix-store-dec-9-tickets-764186451247?aff=oddtdtcreator" target="_blank">Phoenix - Dec 9</a>
+
+   <!-- South Gate -->
+   <a href="https://www.eventbrite.com/e/south-gate-store-dec-2-tickets-764863696907?aff=oddtdtcreator" target="_blank">South Gate - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/south-gate-store-dec-9-tickets-764867488247?aff=oddtdtcreator" target="_blank">South Gate - Dec 9</a>
+
+   <!-- San Bernardino -->
+   <a href="https://www.eventbrite.com/e/san-bernardino-dec-2-tickets-764868320737?aff=oddtdtcreator" target="_blank">San Bernardino - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/san-bernardino-store-dec-9-tickets-764873736937?aff=oddtdtcreator" target="_blank">San Bernardino - Dec 9</a>
+
+   <!-- Santa Ana -->
+   <a href="https://www.eventbrite.com/e/santa-ana-dec-2-tickets-764876224377?aff=oddtdtcreator" target="_blank">Santa Ana - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/santa-ana-store-dec-9-tickets-764877859267?aff=oddtdtcreator" target="_blank">Santa Ana - Dec 9</a>
+
+   <!-- Panorama City -->
+   <a href="https://www.eventbrite.com/e/panorama-city-store-dec-2-tickets-764882352707?aff=oddtdtcreator" target="_blank">Panorama City - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/panorama-city-store-dec-9-tickets-764884920387?aff=oddtdtcreator" target="_blank">Panorama City - Dec 9</a>
+
+   <!-- Huntington Park -->
+   <a href="https://www.eventbrite.com/e/huntington-park-store-dec-2-tickets-764894007567?aff=oddtdtcreator" target="_blank">Huntington Park - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/huntington-park-store-dec-9-tickets-764895020597?aff=oddtdtcreator" target="_blank">Huntington Park - Dec 9</a>
+
+   <!-- Northridge -->
+   <a href="https://www.eventbrite.com/e/northridge-store-dec-2-tickets-764897417767?aff=oddtdtcreator" target="_blank">Northridge - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/northridge-store-dec-9-tickets-764913315317?aff=oddtdtcreator" target="_blank">Northridge - Dec 9</a>
+
+   <!-- Tucson -->
+   <a href="https://www.eventbrite.com/e/tucson-store-dec-2-tickets-764916213987?aff=oddtdtcreator" target="_blank">Tucson - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/tucson-store-dec-9-tickets-764917337347?aff=oddtdtcreator" target="_blank">Tucson - Dec 9</a>
+
+   <!-- Las Vegas -->
+   <a href="https://www.eventbrite.com/e/las-vegas-store-dec-2-tickets-764918500827?aff=oddtdtcreator" target="_blank">Las Vegas - Dec 2</a>
+   <a href="https://www.eventbrite.com/e/las-vegas-store-dec-9-tickets-764920256077?aff=oddtdtcreator" target="_blank">Las Vegas - Dec 9</a>
+
+</body>
+</html>
